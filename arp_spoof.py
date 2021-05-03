@@ -1,6 +1,4 @@
 import argparse
-import socket
-from binascii import hexlify
 
 from scapy.all import *
 
